@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrsKauH7tf5NZz1bvUjYzAZsRnWmhY6AGiCAsltulldqCTeS4Oq4AHs2GNF270yWq6WaTyxRKP1jbhUUzs2Tkw==",
+  "success": true,
+  "projectFilePath": "F:\\Dev\\LocalizaLabs\\Criando um APP simples de séries em .NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+F:\Dev\LocalizaLabs\Criando um APP simples de séries em .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
